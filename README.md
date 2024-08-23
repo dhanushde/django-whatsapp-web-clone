@@ -16,7 +16,7 @@
 
 #### Start Chat
 ##### Make sure to login using User1 or User2
-https://demo.josnin.dev/django-whatsapp-clone/chat/2/
+https://demo.dhanush.dev/django-whatsapp-clone/chat/2/
 
 
 
