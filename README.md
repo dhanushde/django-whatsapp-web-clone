@@ -10,7 +10,7 @@
 * Pass: dhanush123
 
 #### Login User2 
-* Url: https://demo.kumar.dev/django-whatsapp-clone/admin/login/ (Use Microsoft Edge or any browser except Chrome)
+* Url: https://demo.dhanush.dev/django-whatsapp-clone/admin/login/ (Use Microsoft Edge or any browser except Chrome)
 * User: kumar123
 * Pass: kumar123
 
